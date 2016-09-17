@@ -1,10 +1,12 @@
 Package: cmna
 Type: Package
 Title: Computational Methods for Numerical Analysis
-Version: 0.1.2
-Date: 2016-02-04
-Author: "James P. Howard, II" <jh@jameshoward.us>
-Maintainer: "James P. Howard, II" <jh@jameshoward.us>
+Version: 0.2.2
+Date: 2016-09-17
+Authors@R: person(given = "James P.", family = "Howard, II",
+		          email = "jh@jameshoward.us", role = c("aut", "cre"))
+URL: https://jameshoward.us/cmna/, https://github.com/howardjp/cmna
+BugReports: https://github.com/howardjp/cmna/issues
 Description: Provides the source and examples for James P. Howard, II, 
              "Computational Methods for Numerical Analysis with R," 
 			 <https://jameshoward.us/cmna>, a forthcoming book on
@@ -15,6 +17,8 @@ Suggests: testthat
 RoxygenNote: 5.0.1
 Depends: R (>= 2.10)
 NeedsCompilation: no
-Packaged: 2016-02-05 01:09:51 UTC; howardjp
+Packaged: 2016-09-17 19:28:40 UTC; howardjp
+Author: James P. Howard, II [aut, cre]
+Maintainer: "James P. Howard, II" <jh@jameshoward.us>
 Repository: CRAN
-Date/Publication: 2016-02-05 19:17:44
+Date/Publication: 2016-09-17 21:39:25
