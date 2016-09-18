@@ -1,4 +1,4 @@
-4520a54a8c54d4f7d63b1aff688fc535 *DESCRIPTION
+3dc48174fbf2843a6d4064ef2b1fd666 *DESCRIPTION
 a1d010160e8cfde31d492e39f8883509 *LICENSE
 b90d2334372ab922c443174f2073288d *NAMESPACE
 20690dd7faeb92569a838a1ed06f4b94 *R/adaptint.R
@@ -11,7 +11,7 @@ d8646d506f8015208d58c2e1d2b1dc99 *R/bisection.R
 a3bf44d6e44f9823d248cd1a3ec14f86 *R/cubicspline.R
 fad40957c6b20affbfc808b1f4694464 *R/detmatrix.R
 9c23574747129c198dca5522c1e6bb11 *R/fibonacci.R
-f5be72fbe71d3a883b1c76df84fcf221 *R/findiff.R
+89c4b5c26112d6f19e648e9815ff8a41 *R/findiff.R
 f782d12d167fe6ba1a4826ae3f62c54c *R/gaussint.R
 d9466b4e73676f52fa252c5405c56e72 *R/gdls.R
 7754dbca4c24b6ba3cff71f38e2c51f4 *R/giniquintile.R
@@ -28,7 +28,7 @@ aeec3b201185672c88735d9fd6a4b353 *R/hillclimbing.R
 e1f1e7cb3b334c52f043040cf2bbc99f *R/ivpsys.R
 a31efc2925fac6aca2837f09b11b289a *R/linterp.R
 d034733cb3e5ce7a609526783151201b *R/lumatrix.R
-7dd59a0cc9fd1458f0d0ffd102c87d3d *R/mcintegrate.R
+d36e12bcc44463692f9429fd2dbb0b77 *R/mcintegrate.R
 d15ddf1698e11d1d9ff070e604e642fd *R/midpt.R
 55ebf7c24be7a7f52774f132a9cd0885 *R/naivediv.R
 fc8ad70c95d60c738943ba519658c7cf *R/naivesum.R
@@ -53,7 +53,7 @@ b8981d6fb3323aa60557d7f0c1362383 *R/trap.R
 0362318fff1c4153db7592776e733602 *R/vecnorm.R
 23c4ef22b9c9749af0a0e430f2596a81 *R/wave.R
 7e5a7565cc6a9884455380acc630e9c1 *R/wilkinson.R
-ab0c7de3eede6cad5425aec81fb1d0bf *README.md
+1dd53e2b0f8a75006af4ae2b2f534c87 *README.md
 45e2b891d523e465c739fd3b746fdaa6 *inst/CITATION
 0d5cc70732f50af1837d4bb8722d4746 *inst/COPYRIGHTS
 c33d33360d5a7a495a66dc5608d7f75e *man/adaptint.Rd
@@ -67,7 +67,7 @@ d71cf887ff0292677d089ff74f6a24f0 *man/cmna-package.Rd
 ceff879f506e6152f01442d078c6c163 *man/detmatrix.Rd
 1f604d5f29673e800fc5f4d336b1635c *man/division.Rd
 4f2b08135e5e7dd9922814339a84b9dc *man/fibonacci.Rd
-64ee73935a5324104fab44098a6363a3 *man/findiff.Rd
+9d51491d6fb15c0c18dc7f2a153e6e9f *man/findiff.Rd
 fd12e4ff57225c69ff231e75223de056 *man/gaussint.Rd
 d37806955073af985d2bee8b40539f6d *man/gdls.Rd
 78f1bd5082660aae20f155a91ee01455 *man/giniquintile.Rd
@@ -84,7 +84,7 @@ fc10d5724147e13bbeb94c0674b46fc3 *man/ivp.Rd
 1e8967ea590206891c3f13e366b220f2 *man/ivpsys.Rd
 b7634ade25b50b7c9fe7016c9fde1264 *man/linterp.Rd
 f9c19bf46e6a389def9592679a6144fa *man/lumatrix.Rd
-f0b3d3e44351ec696342a80835817dbd *man/mcint.Rd
+5d4daa4dfb986d0a67f00b364b45c8a8 *man/mcint.Rd
 4a9c018bf4d9ee4ca2c844e2069828f4 *man/midpt.Rd
 4027e5b2c2319e4f6b0a5d28f1db6c01 *man/newton.Rd
 0709bb3019954b717de20235b1ab46da *man/nn.Rd
