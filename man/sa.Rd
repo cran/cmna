@@ -37,9 +37,12 @@ sa(f, c(0, 0), 0.05)
 
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{goldsect}}, \code{\link{gradient}},
-  \code{\link{hillclimbing}}, \code{\link{newton}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{goldsect}},
+\code{\link{gradient}},
+\code{\link{hillclimbing}()},
+\code{\link{newton}()},
+\code{\link{secant}()}
 }
 \concept{optimz}

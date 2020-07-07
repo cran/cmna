@@ -40,9 +40,12 @@ f <- cbezier(x, y, seq(0, 1, 1/100))
 
 }
 \seealso{
-Other interp: \code{\link{bilinear}},
-  \code{\link{cubicspline}}, \code{\link{linterp}},
-  \code{\link{nn}}, \code{\link{polyinterp}},
-  \code{\link{pwiselinterp}}
+Other interp: 
+\code{\link{bilinear}()},
+\code{\link{cubicspline}()},
+\code{\link{linterp}()},
+\code{\link{nn}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()}
 }
 \concept{interp}

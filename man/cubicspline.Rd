@@ -33,16 +33,25 @@ f <- cubicspline(x, y)
 
 }
 \seealso{
-Other interp: \code{\link{bezier}}, \code{\link{bilinear}},
-  \code{\link{linterp}}, \code{\link{nn}},
-  \code{\link{polyinterp}}, \code{\link{pwiselinterp}}
+Other interp: 
+\code{\link{bezier}},
+\code{\link{bilinear}()},
+\code{\link{linterp}()},
+\code{\link{nn}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()}
 
-Other algebra: \code{\link{bilinear}},
-  \code{\link{division}}, \code{\link{fibonacci}},
-  \code{\link{horner}}, \code{\link{isPrime}},
-  \code{\link{linterp}}, \code{\link{nthroot}},
-  \code{\link{polyinterp}}, \code{\link{pwiselinterp}},
-  \code{\link{quadratic}}
+Other algebra: 
+\code{\link{bilinear}()},
+\code{\link{division}},
+\code{\link{fibonacci}()},
+\code{\link{horner}()},
+\code{\link{isPrime}()},
+\code{\link{linterp}()},
+\code{\link{nthroot}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()},
+\code{\link{quadratic}()}
 }
 \concept{algebra}
 \concept{interp}

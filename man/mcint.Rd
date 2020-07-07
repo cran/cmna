@@ -42,10 +42,15 @@ mcint(f, 0, 1, m = 10e6)
 
 }
 \seealso{
-Other integration: \code{\link{adaptint}},
-  \code{\link{gaussint}}, \code{\link{giniquintile}},
-  \code{\link{midpt}}, \code{\link{revolution-solid}},
-  \code{\link{romberg}}, \code{\link{simp38}},
-  \code{\link{simp}}, \code{\link{trap}}
+Other integration: 
+\code{\link{adaptint}()},
+\code{\link{gaussint}()},
+\code{\link{giniquintile}()},
+\code{\link{midpt}()},
+\code{\link{revolution-solid}},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{simp}()},
+\code{\link{trap}()}
 }
 \concept{integration}

@@ -36,16 +36,24 @@ simp(f, -pi, pi, m = 1000)
 
 }
 \seealso{
-Other integration: \code{\link{adaptint}},
-  \code{\link{gaussint}}, \code{\link{giniquintile}},
-  \code{\link{mcint}}, \code{\link{midpt}},
-  \code{\link{revolution-solid}}, \code{\link{romberg}},
-  \code{\link{simp38}}, \code{\link{trap}}
+Other integration: 
+\code{\link{adaptint}()},
+\code{\link{gaussint}()},
+\code{\link{giniquintile}()},
+\code{\link{mcint}()},
+\code{\link{midpt}()},
+\code{\link{revolution-solid}},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{trap}()}
 
-Other newton-cotes: \code{\link{adaptint}},
-  \code{\link{giniquintile}}, \code{\link{midpt}},
-  \code{\link{romberg}}, \code{\link{simp38}},
-  \code{\link{trap}}
+Other newton-cotes: 
+\code{\link{adaptint}()},
+\code{\link{giniquintile}()},
+\code{\link{midpt}()},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{trap}()}
 }
 \concept{integration}
 \concept{newton-cotes}

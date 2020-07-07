@@ -29,16 +29,24 @@ Leon Gerber, "A Quintile Rule for the Gini Coefficient",
 \emph{Mathematics Magazine}, 80:2, April 2007.
 }
 \seealso{
-Other integration: \code{\link{adaptint}},
-  \code{\link{gaussint}}, \code{\link{mcint}},
-  \code{\link{midpt}}, \code{\link{revolution-solid}},
-  \code{\link{romberg}}, \code{\link{simp38}},
-  \code{\link{simp}}, \code{\link{trap}}
+Other integration: 
+\code{\link{adaptint}()},
+\code{\link{gaussint}()},
+\code{\link{mcint}()},
+\code{\link{midpt}()},
+\code{\link{revolution-solid}},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{simp}()},
+\code{\link{trap}()}
 
-Other newton-cotes: \code{\link{adaptint}},
-  \code{\link{midpt}}, \code{\link{romberg}},
-  \code{\link{simp38}}, \code{\link{simp}},
-  \code{\link{trap}}
+Other newton-cotes: 
+\code{\link{adaptint}()},
+\code{\link{midpt}()},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{simp}()},
+\code{\link{trap}()}
 }
 \concept{integration}
 \concept{newton-cotes}

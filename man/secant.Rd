@@ -33,9 +33,12 @@ secant(f, 1)
 
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{goldsect}}, \code{\link{gradient}},
-  \code{\link{hillclimbing}}, \code{\link{newton}},
-  \code{\link{sa}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{goldsect}},
+\code{\link{gradient}},
+\code{\link{hillclimbing}()},
+\code{\link{newton}()},
+\code{\link{sa}()}
 }
 \concept{optimz}

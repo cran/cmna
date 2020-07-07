@@ -35,11 +35,16 @@ quadratic2(1, 0, -1)
 quadratic2(4, -4, 1)
 }
 \seealso{
-Other algebra: \code{\link{bilinear}},
-  \code{\link{cubicspline}}, \code{\link{division}},
-  \code{\link{fibonacci}}, \code{\link{horner}},
-  \code{\link{isPrime}}, \code{\link{linterp}},
-  \code{\link{nthroot}}, \code{\link{polyinterp}},
-  \code{\link{pwiselinterp}}
+Other algebra: 
+\code{\link{bilinear}()},
+\code{\link{cubicspline}()},
+\code{\link{division}},
+\code{\link{fibonacci}()},
+\code{\link{horner}()},
+\code{\link{isPrime}()},
+\code{\link{linterp}()},
+\code{\link{nthroot}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()}
 }
 \concept{algebra}

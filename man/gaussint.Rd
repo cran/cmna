@@ -43,10 +43,15 @@ gaussint(f, x, w)
 
 }
 \seealso{
-Other integration: \code{\link{adaptint}},
-  \code{\link{giniquintile}}, \code{\link{mcint}},
-  \code{\link{midpt}}, \code{\link{revolution-solid}},
-  \code{\link{romberg}}, \code{\link{simp38}},
-  \code{\link{simp}}, \code{\link{trap}}
+Other integration: 
+\code{\link{adaptint}()},
+\code{\link{giniquintile}()},
+\code{\link{mcint}()},
+\code{\link{midpt}()},
+\code{\link{revolution-solid}},
+\code{\link{romberg}()},
+\code{\link{simp38}()},
+\code{\link{simp}()},
+\code{\link{trap}()}
 }
 \concept{integration}

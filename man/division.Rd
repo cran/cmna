@@ -34,11 +34,16 @@ longdiv(a, b)
 
 }
 \seealso{
-Other algebra: \code{\link{bilinear}},
-  \code{\link{cubicspline}}, \code{\link{fibonacci}},
-  \code{\link{horner}}, \code{\link{isPrime}},
-  \code{\link{linterp}}, \code{\link{nthroot}},
-  \code{\link{polyinterp}}, \code{\link{pwiselinterp}},
-  \code{\link{quadratic}}
+Other algebra: 
+\code{\link{bilinear}()},
+\code{\link{cubicspline}()},
+\code{\link{fibonacci}()},
+\code{\link{horner}()},
+\code{\link{isPrime}()},
+\code{\link{linterp}()},
+\code{\link{nthroot}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()},
+\code{\link{quadratic}()}
 }
 \concept{algebra}

@@ -40,9 +40,12 @@ goldsectmin(f, 0, 5)
 
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{gradient}}, \code{\link{hillclimbing}},
-  \code{\link{newton}}, \code{\link{sa}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{gradient}},
+\code{\link{hillclimbing}()},
+\code{\link{newton}()},
+\code{\link{sa}()},
+\code{\link{secant}()}
 }
 \concept{optimz}

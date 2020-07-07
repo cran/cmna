@@ -36,9 +36,12 @@ newton(f, fp, 1)
 
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{goldsect}}, \code{\link{gradient}},
-  \code{\link{hillclimbing}}, \code{\link{sa}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{goldsect}},
+\code{\link{gradient}},
+\code{\link{hillclimbing}()},
+\code{\link{sa}()},
+\code{\link{secant}()}
 }
 \concept{optimz}

@@ -24,10 +24,15 @@ vecnorm(x)
 
 }
 \seealso{
-Other linear: \code{\link{choleskymatrix}},
-  \code{\link{detmatrix}}, \code{\link{gdls}},
-  \code{\link{invmatrix}}, \code{\link{iterativematrix}},
-  \code{\link{lumatrix}}, \code{\link{refmatrix}},
-  \code{\link{rowops}}, \code{\link{tridiagmatrix}}
+Other linear: 
+\code{\link{choleskymatrix}()},
+\code{\link{detmatrix}()},
+\code{\link{gdls}()},
+\code{\link{invmatrix}()},
+\code{\link{iterativematrix}},
+\code{\link{lumatrix}()},
+\code{\link{refmatrix}()},
+\code{\link{rowops}},
+\code{\link{tridiagmatrix}()}
 }
 \concept{linear}

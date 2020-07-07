@@ -45,10 +45,15 @@ A <- replacerow(A, 1, 3, 2)
 A <- scalerow(A, 5, 10)
 }
 \seealso{
-Other linear: \code{\link{choleskymatrix}},
-  \code{\link{detmatrix}}, \code{\link{gdls}},
-  \code{\link{invmatrix}}, \code{\link{iterativematrix}},
-  \code{\link{lumatrix}}, \code{\link{refmatrix}},
-  \code{\link{tridiagmatrix}}, \code{\link{vecnorm}}
+Other linear: 
+\code{\link{choleskymatrix}()},
+\code{\link{detmatrix}()},
+\code{\link{gdls}()},
+\code{\link{invmatrix}()},
+\code{\link{iterativematrix}},
+\code{\link{lumatrix}()},
+\code{\link{refmatrix}()},
+\code{\link{tridiagmatrix}()},
+\code{\link{vecnorm}()}
 }
 \concept{linear}

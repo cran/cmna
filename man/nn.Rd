@@ -30,8 +30,12 @@ nn(p, y, q)
 
 }
 \seealso{
-Other interp: \code{\link{bezier}}, \code{\link{bilinear}},
-  \code{\link{cubicspline}}, \code{\link{linterp}},
-  \code{\link{polyinterp}}, \code{\link{pwiselinterp}}
+Other interp: 
+\code{\link{bezier}},
+\code{\link{bilinear}()},
+\code{\link{cubicspline}()},
+\code{\link{linterp}()},
+\code{\link{polyinterp}()},
+\code{\link{pwiselinterp}()}
 }
 \concept{interp}

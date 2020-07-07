@@ -36,9 +36,12 @@ bisection(f, 0, 10)
 
 }
 \seealso{
-Other optimz: \code{\link{goldsect}},
-  \code{\link{gradient}}, \code{\link{hillclimbing}},
-  \code{\link{newton}}, \code{\link{sa}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{goldsect}},
+\code{\link{gradient}},
+\code{\link{hillclimbing}()},
+\code{\link{newton}()},
+\code{\link{sa}()},
+\code{\link{secant}()}
 }
 \concept{optimz}

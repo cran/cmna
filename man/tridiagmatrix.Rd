@@ -26,10 +26,15 @@ use the tridiagonal matrix algorithm to solve a tridiagonal matrix
 tridiagonal matrix.
 }
 \seealso{
-Other linear: \code{\link{choleskymatrix}},
-  \code{\link{detmatrix}}, \code{\link{gdls}},
-  \code{\link{invmatrix}}, \code{\link{iterativematrix}},
-  \code{\link{lumatrix}}, \code{\link{refmatrix}},
-  \code{\link{rowops}}, \code{\link{vecnorm}}
+Other linear: 
+\code{\link{choleskymatrix}()},
+\code{\link{detmatrix}()},
+\code{\link{gdls}()},
+\code{\link{invmatrix}()},
+\code{\link{iterativematrix}},
+\code{\link{lumatrix}()},
+\code{\link{refmatrix}()},
+\code{\link{rowops}},
+\code{\link{vecnorm}()}
 }
 \concept{linear}

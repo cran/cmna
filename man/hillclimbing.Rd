@@ -34,9 +34,12 @@ hillclimbing(f, c(10,10))
 
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{goldsect}}, \code{\link{gradient}},
-  \code{\link{newton}}, \code{\link{sa}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{goldsect}},
+\code{\link{gradient}},
+\code{\link{newton}()},
+\code{\link{sa}()},
+\code{\link{secant}()}
 }
 \concept{optimz}

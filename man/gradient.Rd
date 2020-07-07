@@ -51,9 +51,12 @@ fp <-function(x) {
 gd(fp, c(0, 0), 0.05)
 }
 \seealso{
-Other optimz: \code{\link{bisection}},
-  \code{\link{goldsect}}, \code{\link{hillclimbing}},
-  \code{\link{newton}}, \code{\link{sa}},
-  \code{\link{secant}}
+Other optimz: 
+\code{\link{bisection}()},
+\code{\link{goldsect}},
+\code{\link{hillclimbing}()},
+\code{\link{newton}()},
+\code{\link{sa}()},
+\code{\link{secant}()}
 }
 \concept{optimz}
