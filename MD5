@@ -1,4 +1,4 @@
-6ac0f70a4f537a7d703376081349e2e7 *DESCRIPTION
+00886bfa222b83d0967465d3f7689582 *DESCRIPTION
 a1d010160e8cfde31d492e39f8883509 *LICENSE
 b90d2334372ab922c443174f2073288d *NAMESPACE
 20690dd7faeb92569a838a1ed06f4b94 *R/adaptint.R
@@ -53,8 +53,8 @@ b8981d6fb3323aa60557d7f0c1362383 *R/trap.R
 0362318fff1c4153db7592776e733602 *R/vecnorm.R
 23c4ef22b9c9749af0a0e430f2596a81 *R/wave.R
 7e5a7565cc6a9884455380acc630e9c1 *R/wilkinson.R
-5320023fd8b36b1e539ed27b9edfb063 *README.md
-4750873239d727c90686b91f72061644 *inst/CITATION
+e6aadd4a18c423cdf5dda62f9d5e07e0 *README.md
+43467421a3edad585f7168cb9d694238 *inst/CITATION
 60e31622a77b61e4cdda3ecf113b9365 *inst/COPYRIGHTS
 701395261564ee3eca324e69ef1cd0bb *man/adaptint.Rd
 03df90b6ee8b15edc093d09c335daa49 *man/bezier.Rd
@@ -62,7 +62,7 @@ ba156fb18ac5ba7542d2813c25f41507 *man/bilinear.Rd
 fe05b6129e7e16b424bf3e215cd879b1 *man/bisection.Rd
 ca6e725d1db30d35ff896d80a97b66cd *man/bvp.Rd
 bddf71b8efbc3d134fe1190e13b0865e *man/choleskymatrix.Rd
-7c99cb989924ad4cb1aad60c8a3971c0 *man/cmna-package.Rd
+df7a000f04ee0e3d1ae0e9bfb3ae3a06 *man/cmna-package.Rd
 d4a448b4a3f2f72451c0fc01ee5babe1 *man/cubicspline.Rd
 c01cab69166e1338b921bf11f39dd387 *man/detmatrix.Rd
 dcbae8987fcab56af677431e4f0cd827 *man/division.Rd

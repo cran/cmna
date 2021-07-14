@@ -1,9 +1,11 @@
 # Computational Methods for Numerical Analysis
 
-[![Build Status](https://travis-ci.org/k3jph/cmna-pkg.svg?branch=master)](https://travis-ci.org/k3jph/cmna-pkg)
-[![Coverage Status](https://coveralls.io/repos/github/k3jph/cmna-pkg/badge.svg?branch=develop)](https://coveralls.io/github/k3jph/cmna-pkg?branch=develop)
-[![codecov](https://codecov.io/gh/k3jph/cmna-pkg/branch/master/graph/badge.svg)](https://codecov.io/gh/k3jph/cmna-pkg)
+![CRAN/METACRAN](https://img.shields.io/cran/v/cmna)
 [![Downloads from the RStudio CRAN mirror](https://cranlogs.r-pkg.org/badges/cmna)](https://cran.r-project.org/package=cmna)
+[![Build Status (main)](https://github.com/k3jph/cmna-pkg/actions/workflows/check-main.yaml/badge.svg?branch=main)](https://github.com/k3jph/cmna-pkg/actions/workflows/check-main.yaml)
+[![Build Status (develop)](https://github.com/k3jph/cmna-pkg/actions/workflows/check-develop.yaml/badge.svg?branch=develop)](https://github.com/k3jph/cmna-pkg/actions/workflows/check-develop.yaml)
+[![codecov](https://codecov.io/gh/k3jph/cmna-pkg/branch/master/graph/badge.svg)](https://codecov.io/gh/k3jph/cmna-pkg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/75dad26c84804291ab359fc32e67f635)](https://app.codacy.com/gh/k3jph/cmna-pkg/dashboard)
 [![Package DOI](https://img.shields.io/badge/Package_DOI-10.5281%2Fzenodo.3249230-blue.svg)](https://doi.org/10.5281/zenodo.3249230)
 [![Book DOI](https://img.shields.io/badge/Book_DOI-10.1201%2F9781315120195-blue.svg)](https://doi.org/10.1201/9781315120195)
 
@@ -139,7 +141,7 @@ with a computational and numerical background.
 
 ## Contribution guidelines
 
-* Use [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+* Use [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/)
 * Write unit tests using [testthat](https://github.com/hadley/testthat)
 * Document functions using [roxygen2](https://github.com/yihui/roxygen2)
 

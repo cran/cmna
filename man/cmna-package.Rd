@@ -20,7 +20,7 @@ optimization, and differential equations.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://jameshoward.us/cmna}
+  \item \url{https://jameshoward.us/cmna/}
   \item Report bugs at \url{https://github.com/k3jph/cmna-pkg/issues}
 }
 
